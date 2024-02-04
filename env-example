@@ -1,0 +1,8 @@
+# sesuaikan dengan port yang akan dipakai
+SERVER_PORT="9000"
+
+
+# mongodb
+# untuk MONGODB_NAME disesuaikan dengan nama database
+MONGODB_URI=mongodb://localhost:27017
+MONGODB_NAME=expressForm
